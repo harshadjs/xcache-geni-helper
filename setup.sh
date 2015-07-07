@@ -11,5 +11,5 @@ if [ "$?" != "0" ]; then
 fi
 
 mv ~/.bashrc ~/.bashrc.orig
-ln -s geni-xcache-helper/bashrc ~/.bashrc
+ln -s xcache-geni-helper/bashrc ~/.bashrc
 
